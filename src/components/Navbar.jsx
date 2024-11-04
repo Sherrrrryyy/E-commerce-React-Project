@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router-dom'
 
 const Navbar = () => {
 
-    
+
     const [visible, setVisible] = useState(false)
 
 

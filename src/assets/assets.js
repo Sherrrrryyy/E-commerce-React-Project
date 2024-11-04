@@ -9,9 +9,7 @@ import cart_icon from './cart_icon.png'
 import menu_icon from './menu_icon.png'
 import dropdown_icon from './dropdown_icon.png'
 import hero_img from './hero_img.png'
-
-
-
+import img1 from 'p_img1.png'
 
 
 
@@ -27,6 +25,9 @@ export const assets = {
     cart_icon,
     menu_icon,
     dropdown_icon,
-    hero_img
-}
+    hero_img,
+},
+products : {
 
+    img1,
+}
